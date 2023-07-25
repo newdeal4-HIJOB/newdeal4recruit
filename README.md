@@ -6,10 +6,12 @@
 
 # 개발환경(사용언어)
 서버 : Apache Tomcat 3.12 RELEASE
+
 툴 : Eclipse egov 3.6, Toad 8.0, SVN 3.3.23, eXERD 3.3.23
+
 프레임워크 : Spring 4.3.0.RELEASE, MyBatis 3.0.6
-언어 : Java 1.8.0, MySql 5.5.62, Jquery 1.11, HTML5, JSP 2.2, 
-Ajax 1.11, JSTL 1.2, JSP 2.2
+
+언어 : Java 1.8.0, MySql 5.5.62, Jquery 1.11, HTML5, JSP 2.2, Ajax 1.11, JSTL 1.2, JSP 2.2
 
 
 # 프로젝트 소개
