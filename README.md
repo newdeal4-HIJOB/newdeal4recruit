@@ -1,3 +1,5 @@
+![image](https://github.com/newdeal4-HIJOB/newdeal4recruit/assets/108056051/42f28531-46c7-4163-be27-0afe9043fb96)
+
 
 # 프로젝트명 : 하이잡(HIJOB) 채용박람회 관리 시스템
 
