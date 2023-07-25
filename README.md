@@ -1,4 +1,3 @@
-# newdeal4recruit
 
 # 프로젝트명 : 하이잡(HIJOB) 채용박람회 관리 시스템
 
